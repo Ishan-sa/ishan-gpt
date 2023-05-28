@@ -8,4 +8,4 @@ chat gpt clone using
 2. Flask (python)
 3. Javascript
 4. Tailwind CSS
-   5, MongoDB
+5. MongoDB
